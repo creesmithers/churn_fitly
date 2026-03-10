@@ -33,7 +33,8 @@ The strongest relationship discovered was between customer service resolution ti
 During analysis, 46 right to be forgotten deltion requests were also identified. 
 
 ## Files
-
+Churn Analysis.ipynb    -   Data cleaning, EDA, correlation analysis, and logistic regression modeling
+fit.ly tech.pptx        -   Slide Deck summarizing analysis with business recommendations to reduce churn. 
 
 ## Note
 This analysis was originally developed as part of a DataCamp project and was expanded with logistic regression modeling to identify strongest predictors.   
