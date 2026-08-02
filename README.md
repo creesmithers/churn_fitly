@@ -1,4 +1,5 @@
 # Customer Churn Analysis - Fit.ly Tech
+Note: This project was completed as part of a DataCamp Data Analyst Certification course. My more recent projects reflect my current technical skill, please see the pinned repositories on my GitHub profile.
 
 ## Overview
 Customer churn is critical for subscription-based companios. This project analyzes drivers of churn.
@@ -35,6 +36,3 @@ During analysis, 46 right to be forgotten deltion requests were also identified.
 ## Files
 - Churn Analysis.ipynb    -   Data cleaning, EDA, correlation analysis, and logistic regression modeling
 - fit.ly tech.pptx        -   Slide Deck summarizing analysis with business recommendations to reduce churn. 
-
-## Note
-This analysis was originally developed as part of a DataCamp project and was expanded with logistic regression modeling to identify strongest predictors.   
