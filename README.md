@@ -1,5 +1,5 @@
 # Customer Churn Analysis - Fit.ly Tech
-Note: This project was completed as part of a DataCamp Data Analyst Certification course. My more recent projects reflect my current technical skill, please see the pinned repositories on my GitHub profile.
+**Note:** This project was completed as part of a DataCamp Data Analyst Certification course. My more recent projects reflect my current technical skill, please see the pinned repositories on my GitHub profile.
 
 ## Overview
 Customer churn is critical for subscription-based companios. This project analyzes drivers of churn.
